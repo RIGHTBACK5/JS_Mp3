@@ -1,0 +1,4 @@
+#playlist,audio{ width:400px; padding:0px; }
+.active a{ color:#5DB0E6;text-decoration:none; }
+span a{ color:#eeeedd;background:#333;padding:5px;display:block; cursor:pointer }
+span a:hover{ text-decoration:none; }
